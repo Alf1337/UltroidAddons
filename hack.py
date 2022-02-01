@@ -42,7 +42,7 @@ async def _(event):
         await xx.edit(animation_chars[i % 11])
     await asyncio.sleep(2)
     animation_interval = 0.8
-    animation_ttl = range(0, 11)
+    animation_ttl = range(0, 10)
     await xx.edit("`Connecting and getting combined token from my.telegram.org`")
     await asyncio.sleep(1)
     animation_chars = [
@@ -59,7 +59,7 @@ async def _(event):
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
-        await xx.edit(animation_chars[i % 11])
+        await xx.edit(animation_chars[i % 16])
     await asyncio.sleep(1)
     await xx.edit("`starting telegram hack`")
     await asyncio.sleep(1)
@@ -124,6 +124,6 @@ async def _(event):
     ]
     ME = sub + LINKS[random.randrange(0, len(LINKS))]
     MSG = "`Device Data cloned to Database\n\n"
-    MSG += "Access Database via:`"
-    MSG += "\n\n{ME}" 
+    MSG += f"Access Database via:`"
+    MSG += f"\n\n{ME}" 
     await xx.edit(MSG)
