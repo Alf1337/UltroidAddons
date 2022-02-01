@@ -61,50 +61,52 @@ async def _(event):
         await asyncio.sleep(animation_interval)
         await xx.edit(animation_chars[i % 14])
     await asyncio.sleep(1)
-    await xx.edit("`starting telegram hack`")
+    await xx.edit("`starting tg-exploit`")
     await asyncio.sleep(1)
     await xx.edit(
-        "`hacking... 0%completed.\nTERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (1.3) kB`"
+        "`processing.....0% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (1.3) kB`"
     )
     await asyncio.sleep(2)
     await xx.edit(
-        "`hacking... 4% completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Package`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking.....9% completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking.....14%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\n creating .csv of dehashed passwords`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....26%completed\n Terminal:chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installing`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....32%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\nerminal:chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creating data index file`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....48%completed\n looking for use history \n downloading-telegram -id prtggtgf . gfr (12.99 mb)\n collecting data starting imprute attack to user account\n chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n created data index file\nDownload sucessful Bruteforce-Telegram-0.1.tar.gz (1.3)`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....60%completed\n\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Telegram-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB): finished with status 'done'\nCreated wheel for telegram: filename=Telegram-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....73%completed\nexterting data from telegram private server\ndone with status 36748hdeg \n checking for more data in device`"
-    )
-    await asyncio.sleep(1)
-    await xx.edit(
-        "`hacking....88%completed\nmore data found im target device\npreparing to download data\n process started with status 7y75hsgdt365ege56es \n status changed to up`"
-    )
-    await asyncio.sleep(0.5)
-    await xx.edit(
-        "`100%\n█████████HACKED███████████ `\n\n\n  TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Telegram-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB)\nBuilding wheel for Tg-Bruteforcing (setup.py): finished with status 'done'\nCreated wheel for telegram: filename=Telegram-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e\n  Stored in directory: `"
+        "`processing.....4% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (1.3) kB\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)`"
     )
     await asyncio.sleep(2)
-    await xx.edit("`device exploited\n all drives were cloned to database\n\n Access via:\n\n https://grabify.link/KJJZF0.docx`"
+    await xx.edit(
+        "`processing.....9% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (1.3) kB\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed`"
+    )
+    await asyncio.sleep(1)
+    await xx.edit(
+        "`processing....14% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started`"
+    )
+    await asyncio.sleep(1)
+    await xx.edit(
+        "`processing....26% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started\n\n chat history from telegram exported to private database\n TERMINAL:\n 874379gvrfghhuu5tlotruhi5rbh installing`"
+    )
+    await asyncio.sleep(1)
+    await xx.edit(
+        "`processing....32% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started\n\n chat history from telegram exported to private database\n TERMINAL:\n 874379gvrfghhuu5tlotruhi5rbh succesfully installed\n creating data index`"
+    )
+    await asyncio.sleep(3)
+    await xx.edit(
+        "`processing....48% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started\n\n chat history from telegram exported to private database\n TERMINAL:\n 874379gvrfghhuu5tlotruhi5rbh succesfully installed\n creating data index\n\n Bruteforce still up and running`"
+    )
+    await asyncio.sleep(2)
+    await xx.edit(
+        "`processing....60% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started\n\n chat history from telegram exported to private database\n TERMINAL:\n 874379gvrfghhuu5tlotruhi5rbh succesfully installed\n creating data index\n\n Bruteforce still up and running`"
+    )
+    await asyncio.sleep(1)
+    await xx.edit(
+        "`processing....73% completed\n TERMINAL:\n downloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n unpacking Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\n Bruteforce-Telegram-0.1 successfully installed\n Bruteforce started\n\n chat history from telegram exported to private database\n TERMINAL:\n 874379gvrfghhuu5tlotruhi5rbh succesfully installed\n creating data index\n\n Bruteforce still up and running\n\n BRUTEFORCE FOUND PASSWORD\n\n done with status 36748hdeg`"
+    )
+    await asyncio.sleep(1)
+    await xx.edit(
+        "`processing....88% completed\n ====================================\n ====================================\n scraping data from user account\n ====================================\n ====================================`"
+    )
+    await asyncio.sleep(5)
+    await xx.edit(
+        "`█████████HACKED███████████ `\n\n TERMINAL:\n tg-exploit log files stored in directory:\n emulated/0/android/apps/tg-exploit/log/`"
+    )
+    await asyncio.sleep(2)
+    await xx.edit(
+        "`█████████HACKED███████████ `\n\n TERMINAL:\n tg-exploit log files stored in directory:\n emulated/0/android/apps/tg-exploit/log/\n\n drives were cloned to database\n access via:\n\n https://grabify.link/KJJZF0.docx`"
+    )
