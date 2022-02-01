@@ -59,7 +59,7 @@ async def _(event):
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
-        await xx.edit(animation_chars[i % 16])
+        await xx.edit(animation_chars[i % 14])
     await asyncio.sleep(1)
     await xx.edit("`starting telegram hack`")
     await asyncio.sleep(1)
