@@ -76,7 +76,7 @@ async def _(event):
     )
     await asyncio.sleep(1)
     await xx.edit(
-        "`hacking.....14%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\n creating pdf of chat`"
+        "`hacking.....14%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\n creating .csv of dehashed passwords`"
     )
     await asyncio.sleep(1)
     await xx.edit(
@@ -84,11 +84,11 @@ async def _(event):
     )
     await asyncio.sleep(1)
     await xx.edit(
-        "`hacking....32%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\nerminal:chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creting data into pdf`"
+        "`hacking....32%completed\n TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Packageseeing target account chat\n lding chat tg-bot bruteforce finished\nerminal:chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creating data index file`"
     )
     await asyncio.sleep(1)
     await xx.edit(
-        "`hacking....48%completed\n looking for use history \n downloading-telegram -id prtggtgf . gfr (12.99 mb)\n collecting data starting imprute attack to user account\n chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n creted data into pdf\nDownload sucessful Bruteforce-Telegram-0.1.tar.gz (1.3)`"
+        "`hacking....48%completed\n looking for use history \n downloading-telegram -id prtggtgf . gfr (12.99 mb)\n collecting data starting imprute attack to user account\n chat history from telegram exporting to private database.\n terminal 874379gvrfghhuu5tlotruhi5rbh installed\n created data index file\nDownload sucessful Bruteforce-Telegram-0.1.tar.gz (1.3)`"
     )
     await asyncio.sleep(1)
     await xx.edit(
@@ -102,7 +102,7 @@ async def _(event):
     await xx.edit(
         "`hacking....88%completed\nmore data found im target device\npreparing to download data\n process started with status 7y75hsgdt365ege56es \n status changed to up`"
     )
-    await asyncio.sleep(1)
+    await asyncio.sleep(0.5)
     await xx.edit(
         "`100%\n█████████HACKED███████████ `\n\n\n  TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Telegram-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB)\nBuilding wheel for Tg-Bruteforcing (setup.py): finished with status 'done'\nCreated wheel for telegram: filename=Telegram-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e\n  Stored in directory: `"
     )
@@ -116,6 +116,6 @@ async def _(event):
     ]
     ME = sub + LINKS[random.randrange(0, len(LINKS))]
     MSG = "`Device Data cloned to Database\n\n"
-    MSG += f"Access Database via:`"
-    MSG += f"\n\n{ME}" 
+    MSG += " Access Database via:`"
+    MSG += f" \n\n{ME}" 
     await xx.edit(MSG)
