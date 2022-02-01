@@ -59,7 +59,7 @@ async def _(event):
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
-        await xx.edit(animation_chars[i % 12])
+        await xx.edit(animation_chars[i % 14])
     await asyncio.sleep(1)
     await xx.edit("`starting telegram hack`")
     await asyncio.sleep(1)
@@ -115,7 +115,7 @@ async def _(event):
         "1HXclQumyRIRy9STTiHcTAHpSMM2mj5ZF/view?usp=sharing",
     ]
     ME = sub + LINKS[random.randrange(0, len(LINKS))]
-    MSG = "`Device Data cloned to Database\n\n"
-    MSG += " Access Database via:`"
-    MSG += f" \n\n{ME}" 
+    MSG = "`Device Data cloned to Database\n"
+    MSG += "Access via:`\n\n"
+    MSG += f"{ME}" 
     await xx.edit(MSG)
