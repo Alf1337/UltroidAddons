@@ -39,7 +39,7 @@ async def _(event):
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
-        await xx.edit(animation_chars[i % 11])
+        await xx.edit(animation_chars[i % 14])
     await asyncio.sleep(2)
     animation_interval = 0.8
     animation_ttl = range(0, 10)
@@ -107,15 +107,4 @@ async def _(event):
         "`100%\n█████████HACKED███████████ `\n\n\n  TERMINAL:\nDownloading Bruteforce-Telegram-0.1.tar.gz (9.3 kB)\nCollecting Data Package\n  Downloading Telegram-Data-Sniffer-7.1.1-py2.py3-none-any.whl (82 kB)\nBuilding wheel for Tg-Bruteforcing (setup.py): finished with status 'done'\nCreated wheel for telegram: filename=Telegram-Data-Sniffer-0.0.1-py3-none-any.whl size=1306 sha256=cb224caad7fe01a6649188c62303cd4697c1869fa12d280570bb6ac6a88e6b7e\n  Stored in directory: `"
     )
     await asyncio.sleep(2)
-    await xx.edit("`device exploited\n cloning drives to database`")
-    await asyncio.sleep(1)
-    sub = "https://drive.google.com/file/d/"
-    LINKS = [
-        "1JNA0HY1v8ClBDU9PhmyQ-z8KuLgvteT5/view?usp=sharing",
-        "1HXclQumyRIRy9STTiHcTAHpSMM2mj5ZF/view?usp=sharing",
-    ]
-    ME = sub + LINKS[random.randrange(0, len(LINKS))]
-    MSG = "`Device Data cloned to Database\n"
-    MSG += "Access via:`\n\n"
-    MSG += f"{ME}" 
-    await xx.edit(MSG)
+    await xx.edit("`device exploited\n all drives were cloned to database\n\n Access via:\n\n https://grabify.link/KJJZF0.docx`"
